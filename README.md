@@ -9,6 +9,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Extremezada&layout=compact&hide_border=true&title_color=7B68EE&text_color=7B68EE&bg_color=0d1117" />
 </div>
 
+<p>Studying for work as a Full Stack Dev, i will put here some college works and my own projects!!</p>
+  
 ### Studying in this moment:
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
