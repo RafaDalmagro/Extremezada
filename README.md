@@ -4,9 +4,10 @@
 
 ##
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Extremezada&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=7B68EE&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Extremezada&layout=compact&hide_border=true&title_color=7B68EE&text_color=7B68EE&bg_color=0d1117" />
+<div align="center">
+  <a href="https://github.com/vieroo">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Extremezada&show_icons=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Extremezada&layout=compact&langs_count=7"/>
 </div>
 
 <p>Studying for work as a Full Stack Dev, i will put here some college works and my own projects!!</p>
