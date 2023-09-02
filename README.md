@@ -5,26 +5,26 @@
 ##
 <div align="center">
   <a href="https://github.com/extremezada">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Extremezada&hide=contribs,prs&theme=transparent"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Extremezada&hide=contribs,prs&theme=transparent&rank_icon=github"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Extremezada&layout=donut&theme=transparent"/>
-</div>    
-
+</div> 
+    
 ##
 
 <p>Studying for work as a Full Stack Dev, i will put here some college works and my own projects!!</p>
   
 ### Studying in this moment:
 <div style="display: inline_block">
+  
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
 </div><br>
 
 ##
-  
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Extremezada&bg_color=1c1c27&color=ffffff&line=7b68ee&point=0f5ca3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -45,4 +45,4 @@
   
 ##
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0967ff&height=120&section=footer"/>
