@@ -5,8 +5,8 @@
 ##
 <div align="center">
   <a href="https://github.com/extremezada">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Extremezada&hide=contribs,prs&theme=transparent&rank_icon=github&text_color=adbac7&title_color=1c1c27&title_bold=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Extremezada&layout=donut&theme=transparent"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Extremezada&hide=contribs,prs&theme=transparent&show_icons=true&custom_title=GitHub+Stats&rank_icon=github&text_color=adbac7&title_color=f5f5f5"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Extremezada&layout=donut&theme=transparent&custom_title=Working+with&text_color=adbac7&title_color=f5f5f5"/>
 </div> 
     
 ##
@@ -45,4 +45,4 @@
   
 ##
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0967ff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1c1c27&height=120&section=footer"/>
