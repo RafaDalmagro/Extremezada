@@ -1,14 +1,15 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0967ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Rafael+Dalmagro;I'm+24+years+old;I+am+a+stuent+of+information+systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0967ff&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Rafael+Dalmagro;I'm+24+years+old;I+am+a+stuent+of+information+systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ##
-
 <div align="center">
-  <a href="https://github.com/vieroo">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Extremezada&show_icons=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Extremezada&layout=compact&langs_count=7"/>
-</div>
+  <a href="https://github.com/extremezada">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Extremezada&hide=contribs,prs&theme=transparent"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Extremezada&layout=donut&theme=transparent"/>
+</div>    
+
+##
 
 <p>Studying for work as a Full Stack Dev, i will put here some college works and my own projects!!</p>
   
