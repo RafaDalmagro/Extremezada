@@ -10,8 +10,10 @@
 </div> 
     
 ##
-
-<p>Studying for work as a Full Stack Dev, i will put here some college works and my own projects!!</p>
+<div>
+  <h1>About me<h1>
+  <p>Studying for work as a Full Stack Dev, i will put here some college works and my own projects!!</p>
+</div>
   
 ### Studying in this moment:
 <div style="display: inline_block">
